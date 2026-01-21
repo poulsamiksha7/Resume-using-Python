@@ -1,0 +1,3 @@
+01012026 | 1500 | I am happy | Mood: happy 
+ 01012026 | 1501 | Today I felt sad | Mood: sad 
+ 
