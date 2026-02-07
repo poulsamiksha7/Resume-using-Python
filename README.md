@@ -20,3 +20,14 @@ The program then generates a formatted output that can be saved or reviewed.
 1. Make sure Python is installed on your system  
 2. Clone the repository  
 3. Run the script:
+
+
+## Learning Outcomes
+- Practiced Python basics  
+- Learned user input handling  
+- Worked with file generation  
+- Improved problem-solving skills  
+
+## Author
+Samiksha Poul  
+Aspiring Python Backend Developer
